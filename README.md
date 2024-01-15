@@ -1,5 +1,6 @@
 # React + Vite
 Basic React Static Site:
+</br>
 ![image](https://github.com/Pritam-kumar1/React-Vite/assets/43674653/c88ea332-d7bb-434f-adb4-372929dfe419)
 
 
